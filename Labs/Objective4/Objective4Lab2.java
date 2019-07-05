@@ -15,6 +15,7 @@ public class Objective4Lab2 {
     }
     else {
       System.out.println(string1 + " is not equivalent to " + string3);
+      
     }
   }
 }
