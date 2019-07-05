@@ -32,4 +32,4 @@ public class ComparingNumbers{
   }
 }
 //1. The "Hey." line runs no matter what.  This is because of the lack of curly braces.
-//2.
+//2. It works as expected.
