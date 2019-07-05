@@ -4,7 +4,7 @@ public class Objective4Lab1 {
     int num2 = 15;
 
     /* Objective says to "Fill in the following logic conditions" here, but
-    not entirely sure what this message is asking.  I did write the code to 
+    not entirely sure what this message is asking.  I did write the code to
     compile and print the expected output*/
 
     if(num1>num2) {
@@ -12,6 +12,7 @@ public class Objective4Lab1 {
     }
     else if (num2 > num1) {
       System.out.println(num2 + " is GREATER THAN " + num1);
+      
     }
   }
 }
