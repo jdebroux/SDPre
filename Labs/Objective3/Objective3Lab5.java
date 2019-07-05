@@ -16,6 +16,5 @@ public class Objective3Lab5 {
     System.out.println("The sum of " + num1 + " + " + num2 + " = " + num3);
 
     input.close();
-
   }
 }
