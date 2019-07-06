@@ -71,5 +71,6 @@ public class ShapeArea {
 
   public static double computeSquareArea( double height ) {
     return (height * height);
+    
   }
 }
